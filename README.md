@@ -1,1 +1,1 @@
-# public-code-project
+# This repository is used for school
